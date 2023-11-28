@@ -23,7 +23,7 @@ MP4 file format).
 
 Clone the repository and run:
 
-`mp4-parser-project test0.mp4`
+`mp4-parser-project .\sample\test0.mp4`
 
 ## Simple code explanation
 
