@@ -48,7 +48,7 @@ The `main` function is the entry point of the program. It checks if a filename i
 ## Output 
 mdat_content.dat --> UTF8 encoded XML string in mdat box.
 
-## Bonus : : Which problem can occur if the content of the MDAT box is very large?
+## Bonus : Which problem can occur if the content of the MDAT box is very large?
 
 - **File size limits**: On some systems there may be limits on size of files that can be opened/processed in a program. A file with an extremely large MDAT could exceed these limits.
 
